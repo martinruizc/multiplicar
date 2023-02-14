@@ -1,5 +1,5 @@
 # Multiplicar
-Programa en consola hecho en **NodeJs**
+Programa de consola hecho en **NodeJs**
 
 ```
 Options:
