@@ -1,2 +1,2 @@
 # Multiplicar
-Programa en consola hecho con <Node>
+Programa en consola hecho en **NodeJS**
